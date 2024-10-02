@@ -3,7 +3,6 @@
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
     "/layout": [
@@ -11,6 +10,36 @@
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
+    ],
+    "/home-main/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/home-main/page.js"
+    ],
+    "/blog-classic/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blog-classic/page.js"
+    ],
+    "/blog-grid-sidebar/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blog-grid-sidebar/page.js"
+    ],
+    "/blog-grid-3column/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blog-grid-3column/page.js"
+    ],
+    "/portfolio-gallery/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/portfolio-gallery/page.js"
+    ],
+    "/portfolio-creative/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/portfolio-creative/page.js"
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
